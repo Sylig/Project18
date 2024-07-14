@@ -1,8 +1,8 @@
 REACT LOCAL STATE MANAGEMENT AND EVENTS
 
-18.Task - Steps
+Steps
 
-Create an interest calculator web page with React and JSX with the following content:
+- Create an interest calculator web page with React and JSX with the following content:
 
 - Create a folder on your local machine.
 
